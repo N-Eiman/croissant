@@ -16,9 +16,10 @@ a {
 }
 
 img {
-  height: 400px;
-  width: 500px;
+  height: 470px;
+  width: 600px;
   display: block;
   margin: 0 auto;
   margin-bottom: 17px;
+  border-radius: 10px;
 }
